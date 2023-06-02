@@ -1,0 +1,13 @@
+php clear_table.php
+php clear_dir.php
+php work1.php
+php graber.php
+
+php parser_html2.php
+php graber.php
+php parser_html4.php
+php parser_txt2.php
+
+
+./start2
+./start2
