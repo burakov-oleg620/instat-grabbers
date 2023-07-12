@@ -1,0 +1,12 @@
+my @headers = (
+	'URL',
+	'NAME',
+	'SKU',
+	'DESCRIPTION',
+	'FEATURES',
+	'PRICE',
+	'CATEGORY',
+	'LARGEIMAGE',
+	'SMALLIMAGE',
+	
+); 
