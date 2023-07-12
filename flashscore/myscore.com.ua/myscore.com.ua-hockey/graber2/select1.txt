@@ -1,1 +1,0 @@
-'http://vseinstrumenti.tiu.ru/product_list' = 'href'
